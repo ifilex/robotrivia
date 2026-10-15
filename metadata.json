@@ -1,0 +1,6 @@
+{
+  "name": "RoboTrivia 8-Bit",
+  "description": "Juego de trivia retro estilo Preguntados con duelos contra robots 8-bit, música chiptune, ruleta de temáticas, multijugador, tienda de avatares y análisis cognitivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
